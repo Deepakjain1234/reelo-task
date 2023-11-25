@@ -120,14 +120,14 @@ response:-
     "physics": [
         [
             {
-                "id": 4,
-                "question": "What is SHM",
+                "id": 10,
+                "question": "What is the law of conservation of energy?",
                 "level": "Easy",
                 "marks": 5,
-                "topic": "Waves",
+                "topic": "Energy",
                 "subject": "Physics",
-                "createdAt": "2023-11-19T07:24:38.000Z",
-                "updatedAt": "2023-11-19T07:24:38.000Z"
+                "createdAt": "2023-11-19T07:37:17.000Z",
+                "updatedAt": "2023-11-19T07:37:17.000Z"
             },
             {
                 "id": 11,
@@ -140,51 +140,51 @@ response:-
                 "updatedAt": "2023-11-19T07:37:17.000Z"
             },
             {
-                "id": 18,
-                "question": "Explain the concept of wave-particle duality.",
+                "id": 31,
+                "question": "Explain the concept of diffraction in wave optics.",
                 "level": "Easy",
                 "marks": 5,
-                "topic": "Quantum Mechanics",
+                "topic": "Optics",
                 "subject": "Physics",
                 "createdAt": "2023-11-19T07:37:17.000Z",
                 "updatedAt": "2023-11-19T07:37:17.000Z"
             },
             {
-                "id": 16,
-                "question": "Define the term 'resistance' in an electrical circuit.",
-                "level": "Easy",
-                "marks": 5,
-                "topic": "Electricity",
-                "subject": "Physics",
-                "createdAt": "2023-11-19T07:37:17.000Z",
-                "updatedAt": "2023-11-19T07:37:17.000Z"
-            },
-            {
-                "id": 24,
-                "question": "Define the term 'coulomb' in electricity.",
-                "level": "Easy",
-                "marks": 5,
-                "topic": "Electricity",
-                "subject": "Physics",
-                "createdAt": "2023-11-19T07:37:17.000Z",
-                "updatedAt": "2023-11-19T07:37:17.000Z"
-            },
-            {
-                "id": 29,
-                "question": "What is the purpose of a cathode ray tube?",
-                "level": "Easy",
-                "marks": 5,
-                "topic": "Modern Physics",
-                "subject": "Physics",
-                "createdAt": "2023-11-19T07:37:17.000Z",
-                "updatedAt": "2023-11-19T07:37:17.000Z"
-            },
-            {
-                "id": 14,
-                "question": "Define the term 'momentum'.",
+                "id": 34,
+                "question": "Define the term 'kinematic equations' in classical mechanics.",
                 "level": "Easy",
                 "marks": 5,
                 "topic": "Classical Mechanics",
+                "subject": "Physics",
+                "createdAt": "2023-11-19T07:37:17.000Z",
+                "updatedAt": "2023-11-19T07:37:17.000Z"
+            },
+            {
+                "id": 8,
+                "question": "Describe the Doppler effect in the context of waves.",
+                "level": "Easy",
+                "marks": 5,
+                "topic": "Waves",
+                "subject": "Physics",
+                "createdAt": "2023-11-19T07:37:17.000Z",
+                "updatedAt": "2023-11-19T07:37:17.000Z"
+            },
+            {
+                "id": 25,
+                "question": "What is the purpose of a transformer in an electrical circuit?",
+                "level": "Easy",
+                "marks": 5,
+                "topic": "Electromagnetism",
+                "subject": "Physics",
+                "createdAt": "2023-11-19T07:37:17.000Z",
+                "updatedAt": "2023-11-19T07:37:17.000Z"
+            },
+            {
+                "id": 30,
+                "question": "Define the term 'voltage' in an electrical circuit.",
+                "level": "Easy",
+                "marks": 5,
+                "topic": "Electricity",
                 "subject": "Physics",
                 "createdAt": "2023-11-19T07:37:17.000Z",
                 "updatedAt": "2023-11-19T07:37:17.000Z"
@@ -192,41 +192,31 @@ response:-
         ],
         [
             {
-                "id": 46,
-                "question": "What is the relationship between frequency and wavelength in wave motion?",
+                "id": 54,
+                "question": "Explain the concept of electric current and its direction in a circuit.",
                 "level": "Medium",
                 "marks": 10,
-                "topic": "Waves",
+                "topic": "Electricity",
                 "subject": "Physics",
                 "createdAt": "2023-11-19T07:39:58.000Z",
                 "updatedAt": "2023-11-19T07:39:58.000Z"
             },
             {
-                "id": 38,
-                "question": "Describe the process of wave interference.",
+                "id": 39,
+                "question": "Explain the principle of conservation of linear momentum.",
                 "level": "Medium",
                 "marks": 10,
-                "topic": "Waves",
+                "topic": "Classical Mechanics",
                 "subject": "Physics",
                 "createdAt": "2023-11-19T07:39:58.000Z",
                 "updatedAt": "2023-11-19T07:39:58.000Z"
             },
             {
-                "id": 50,
-                "question": "Describe the phenomenon of total internal reflection.",
+                "id": 35,
+                "question": "What is the law of conservation of energy?",
                 "level": "Medium",
                 "marks": 10,
-                "topic": "Optics",
-                "subject": "Physics",
-                "createdAt": "2023-11-19T07:39:58.000Z",
-                "updatedAt": "2023-11-19T07:39:58.000Z"
-            },
-            {
-                "id": 59,
-                "question": "What is the purpose of a Geiger-Muller counter in nuclear physics?",
-                "level": "Medium",
-                "marks": 10,
-                "topic": "Nuclear Physics",
+                "topic": "Energy",
                 "subject": "Physics",
                 "createdAt": "2023-11-19T07:39:58.000Z",
                 "updatedAt": "2023-11-19T07:39:58.000Z"
@@ -242,16 +232,6 @@ response:-
                 "updatedAt": "2023-11-19T07:39:58.000Z"
             },
             {
-                "id": 43,
-                "question": "Define the term 'thermal expansion' and provide an example.",
-                "level": "Medium",
-                "marks": 10,
-                "topic": "Thermodynamics",
-                "subject": "Physics",
-                "createdAt": "2023-11-19T07:39:58.000Z",
-                "updatedAt": "2023-11-19T07:39:58.000Z"
-            },
-            {
                 "id": 64,
                 "question": "What is the purpose of a step-up transformer in an electrical circuit?",
                 "level": "Medium",
@@ -262,11 +242,31 @@ response:-
                 "updatedAt": "2023-11-19T07:39:58.000Z"
             },
             {
-                "id": 47,
-                "question": "Define the term 'magnetic field strength'.",
+                "id": 44,
+                "question": "Describe the behavior of a gas under Boyle's Law.",
                 "level": "Medium",
                 "marks": 10,
-                "topic": "Electromagnetism",
+                "topic": "Thermodynamics",
+                "subject": "Physics",
+                "createdAt": "2023-11-19T07:39:58.000Z",
+                "updatedAt": "2023-11-19T07:39:58.000Z"
+            },
+            {
+                "id": 48,
+                "question": "Explain the concept of heat transfer by conduction.",
+                "level": "Medium",
+                "marks": 10,
+                "topic": "Thermodynamics",
+                "subject": "Physics",
+                "createdAt": "2023-11-19T07:39:58.000Z",
+                "updatedAt": "2023-11-19T07:39:58.000Z"
+            },
+            {
+                "id": 57,
+                "question": "What is the purpose of a thermocouple in temperature measurement?",
+                "level": "Medium",
+                "marks": 10,
+                "topic": "Thermodynamics",
                 "subject": "Physics",
                 "createdAt": "2023-11-19T07:39:58.000Z",
                 "updatedAt": "2023-11-19T07:39:58.000Z"
@@ -274,8 +274,18 @@ response:-
         ],
         [
             {
-                "id": 89,
-                "question": "Describe the principles of supergravity in theoretical physics.",
+                "id": 87,
+                "question": "Explain the principles of gauge symmetry in particle physics.",
+                "level": "Hard",
+                "marks": 15,
+                "topic": "Particle Physics",
+                "subject": "Physics",
+                "createdAt": "2023-11-19T07:43:48.000Z",
+                "updatedAt": "2023-11-19T07:43:48.000Z"
+            },
+            {
+                "id": 75,
+                "question": "Explain the concept of string theory in theoretical physics.",
                 "level": "Hard",
                 "marks": 15,
                 "topic": "Theoretical Physics",
@@ -284,21 +294,11 @@ response:-
                 "updatedAt": "2023-11-19T07:43:48.000Z"
             },
             {
-                "id": 92,
-                "question": "Explain the concept of the double-slit experiment in quantum mechanics.",
+                "id": 73,
+                "question": "Define the properties and behavior of quarks in particle physics.",
                 "level": "Hard",
                 "marks": 15,
-                "topic": "Quantum Mechanics",
-                "subject": "Physics",
-                "createdAt": "2023-11-19T07:43:48.000Z",
-                "updatedAt": "2023-11-19T07:43:48.000Z"
-            },
-            {
-                "id": 84,
-                "question": "Explain the concept of entropic gravity in theoretical physics.",
-                "level": "Hard",
-                "marks": 15,
-                "topic": "Theoretical Physics",
+                "topic": "Particle Physics",
                 "subject": "Physics",
                 "createdAt": "2023-11-19T07:43:48.000Z",
                 "updatedAt": "2023-11-19T07:43:48.000Z"
@@ -306,37 +306,55 @@ response:-
         ]
     ],
     "physicsTopicWiseQuestions": {
-        "Waves": 3,
-        "Energy": 1,
-        "Quantum Mechanics": 2,
-        "Electricity": 3,
-        "Modern Physics": 1,
-        "Classical Mechanics": 1,
-        "Optics": 1,
-        "Nuclear Physics": 1,
-        "Thermodynamics": 1,
-        "Electromagnetism": 2,
-        "Theoretical Physics": 2
+        "Energy": "16.67%",
+        "Optics": "5.56%",
+        "Classical Mechanics": "11.11%",
+        "Waves": "5.56%",
+        "Electromagnetism": "11.11%",
+        "Electricity": "16.67%",
+        "Thermodynamics": "16.67%",
+        "Particle Physics": "11.11%",
+        "Theoretical Physics": "5.56%"
     },
     "chemistryMarks": 160,
     "chemistry": [
         [
             {
-                "id": 114,
-                "question": "What is the molecular formula for methane?",
+                "id": 105,
+                "question": "Explain the concept of valence electrons in atoms.",
                 "level": "Easy",
                 "marks": 5,
-                "topic": "Organic Chemistry",
+                "topic": "Atomic Structure",
                 "subject": "Chemistry",
                 "createdAt": "2023-11-19T07:52:51.000Z",
                 "updatedAt": "2023-11-19T07:52:51.000Z"
             },
             {
-                "id": 98,
-                "question": "Define the term 'pH' and its significance in chemistry.",
+                "id": 101,
+                "question": "Explain the concept of chemical equilibrium.",
                 "level": "Easy",
                 "marks": 5,
-                "topic": "Acids and Bases",
+                "topic": "Chemical Equilibrium",
+                "subject": "Chemistry",
+                "createdAt": "2023-11-19T07:52:51.000Z",
+                "updatedAt": "2023-11-19T07:52:51.000Z"
+            },
+            {
+                "id": 111,
+                "question": "Define the term 'electrolysis' and its applications.",
+                "level": "Easy",
+                "marks": 5,
+                "topic": "Electrochemistry",
+                "subject": "Chemistry",
+                "createdAt": "2023-11-19T07:52:51.000Z",
+                "updatedAt": "2023-11-19T07:52:51.000Z"
+            },
+            {
+                "id": 112,
+                "question": "Explain the concept of Avogadro's number.",
+                "level": "Easy",
+                "marks": 5,
+                "topic": "Mole Concept",
                 "subject": "Chemistry",
                 "createdAt": "2023-11-19T07:52:51.000Z",
                 "updatedAt": "2023-11-19T07:52:51.000Z"
@@ -352,47 +370,97 @@ response:-
                 "updatedAt": "2023-11-19T07:52:51.000Z"
             },
             {
-                "id": 120,
-                "question": "Explain the concept of solubility in chemistry.",
+                "id": 122,
+                "question": "Define the term 'ion' and its types.",
                 "level": "Easy",
                 "marks": 5,
-                "topic": "Solutions",
+                "topic": "Chemical Bonding",
                 "subject": "Chemistry",
                 "createdAt": "2023-11-19T07:52:51.000Z",
                 "updatedAt": "2023-11-19T07:52:51.000Z"
             },
             {
-                "id": 118,
-                "question": "What is the chemical formula for sodium chloride?",
+                "id": 119,
+                "question": "Define the term 'stoichiometric coefficient' in chemical equations.",
                 "level": "Easy",
                 "marks": 5,
-                "topic": "Chemical Formulas",
-                "subject": "Chemistry",
-                "createdAt": "2023-11-19T07:52:51.000Z",
-                "updatedAt": "2023-11-19T07:52:51.000Z"
-            },
-            {
-                "id": 95,
-                "question": "What is the chemical formula for methane?",
-                "level": "Easy",
-                "marks": 5,
-                "topic": "Organic Chemistry",
-                "subject": "Chemistry",
-                "createdAt": "2023-11-19T07:52:51.000Z",
-                "updatedAt": "2023-11-19T07:52:51.000Z"
-            },
-            {
-                "id": 97,
-                "question": "Explain the concept of isotopes in atomic structure.",
-                "level": "Easy",
-                "marks": 5,
-                "topic": "Atomic Structure",
+                "topic": "Chemical Reactions",
                 "subject": "Chemistry",
                 "createdAt": "2023-11-19T07:52:51.000Z",
                 "updatedAt": "2023-11-19T07:52:51.000Z"
             }
         ],
         [
+            {
+                "id": 149,
+                "question": "Define the term 'ligand' in coordination chemistry.",
+                "level": "Medium",
+                "marks": 10,
+                "topic": "Coordination Chemistry",
+                "subject": "Chemistry",
+                "createdAt": "2023-11-19T07:54:55.000Z",
+                "updatedAt": "2023-11-19T07:54:55.000Z"
+            },
+            {
+                "id": 124,
+                "question": "Define the term 'enthalpy' in thermodynamics.",
+                "level": "Medium",
+                "marks": 10,
+                "topic": "Thermodynamics",
+                "subject": "Chemistry",
+                "createdAt": "2023-11-19T07:54:55.000Z",
+                "updatedAt": "2023-11-19T07:54:55.000Z"
+            },
+            {
+                "id": 133,
+                "question": "Explain the principles of the Born-Haber cycle.",
+                "level": "Medium",
+                "marks": 10,
+                "topic": "Thermochemistry",
+                "subject": "Chemistry",
+                "createdAt": "2023-11-19T07:54:55.000Z",
+                "updatedAt": "2023-11-19T07:54:55.000Z"
+            },
+            {
+                "id": 136,
+                "question": "Explain the concept of coordination compounds.",
+                "level": "Medium",
+                "marks": 10,
+                "topic": "Coordination Chemistry",
+                "subject": "Chemistry",
+                "createdAt": "2023-11-19T07:54:55.000Z",
+                "updatedAt": "2023-11-19T07:54:55.000Z"
+            },
+            {
+                "id": 126,
+                "question": "What is the structure of benzene?",
+                "level": "Medium",
+                "marks": 10,
+                "topic": "Organic Chemistry",
+                "subject": "Chemistry",
+                "createdAt": "2023-11-19T07:54:55.000Z",
+                "updatedAt": "2023-11-19T07:54:55.000Z"
+            },
+            {
+                "id": 143,
+                "question": "Explain the principles of chromatography as a separation technique.",
+                "level": "Medium",
+                "marks": 10,
+                "topic": "Analytical Chemistry",
+                "subject": "Chemistry",
+                "createdAt": "2023-11-19T07:54:55.000Z",
+                "updatedAt": "2023-11-19T07:54:55.000Z"
+            },
+            {
+                "id": 146,
+                "question": "Define the term 'radioactivity' and its types.",
+                "level": "Medium",
+                "marks": 10,
+                "topic": "Nuclear Chemistry",
+                "subject": "Chemistry",
+                "createdAt": "2023-11-19T07:54:55.000Z",
+                "updatedAt": "2023-11-19T07:54:55.000Z"
+            },
             {
                 "id": 138,
                 "question": "What is the chemical formula for hydrogen peroxide?",
@@ -402,105 +470,35 @@ response:-
                 "subject": "Chemistry",
                 "createdAt": "2023-11-19T07:54:55.000Z",
                 "updatedAt": "2023-11-19T07:54:55.000Z"
-            },
-            {
-                "id": 137,
-                "question": "Define the term 'oxidation state' in redox reactions.",
-                "level": "Medium",
-                "marks": 10,
-                "topic": "Redox Reactions",
-                "subject": "Chemistry",
-                "createdAt": "2023-11-19T07:54:55.000Z",
-                "updatedAt": "2023-11-19T07:54:55.000Z"
-            },
-            {
-                "id": 151,
-                "question": "Explain the concept of nuclear fusion in stars.",
-                "level": "Medium",
-                "marks": 10,
-                "topic": "Nuclear Chemistry",
-                "subject": "Chemistry",
-                "createdAt": "2023-11-19T07:54:55.000Z",
-                "updatedAt": "2023-11-19T07:54:55.000Z"
-            },
-            {
-                "id": 125,
-                "question": "Explain the concept of molarity in solution chemistry.",
-                "level": "Medium",
-                "marks": 10,
-                "topic": "Solution Chemistry",
-                "subject": "Chemistry",
-                "createdAt": "2023-11-19T07:54:55.000Z",
-                "updatedAt": "2023-11-19T07:54:55.000Z"
-            },
-            {
-                "id": 131,
-                "question": "Define the term 'half-life' in nuclear chemistry.",
-                "level": "Medium",
-                "marks": 10,
-                "topic": "Nuclear Chemistry",
-                "subject": "Chemistry",
-                "createdAt": "2023-11-19T07:54:55.000Z",
-                "updatedAt": "2023-11-19T07:54:55.000Z"
-            },
-            {
-                "id": 134,
-                "question": "Define the term 'ionization energy' and its periodic trends.",
-                "level": "Medium",
-                "marks": 10,
-                "topic": "Atomic Structure",
-                "subject": "Chemistry",
-                "createdAt": "2023-11-19T07:54:55.000Z",
-                "updatedAt": "2023-11-19T07:54:55.000Z"
-            },
-            {
-                "id": 130,
-                "question": "Explain the concept of hybridization in molecular orbital theory.",
-                "level": "Medium",
-                "marks": 10,
-                "topic": "Chemical Bonding",
-                "subject": "Chemistry",
-                "createdAt": "2023-11-19T07:54:55.000Z",
-                "updatedAt": "2023-11-19T07:54:55.000Z"
-            },
-            {
-                "id": 140,
-                "question": "Define the term 'Gibbs free energy' and its applications.",
-                "level": "Medium",
-                "marks": 10,
-                "topic": "Thermodynamics",
-                "subject": "Chemistry",
-                "createdAt": "2023-11-19T07:54:55.000Z",
-                "updatedAt": "2023-11-19T07:54:55.000Z"
             }
         ],
         [
             {
-                "id": 164,
-                "question": "Discuss the principles of X-ray crystallography in determining molecular structures.",
+                "id": 162,
+                "question": "Explain the concept of chiral molecules in organic chemistry.",
                 "level": "Hard",
                 "marks": 15,
-                "topic": "Analytical Chemistry",
+                "topic": "Organic Chemistry",
                 "subject": "Chemistry",
                 "createdAt": "2023-11-19T07:59:14.000Z",
                 "updatedAt": "2023-11-19T07:59:14.000Z"
             },
             {
-                "id": 154,
-                "question": "Define the term 'coordination compound' and provide an example.",
+                "id": 161,
+                "question": "Discuss the structure and properties of carbon nanotubes.",
                 "level": "Hard",
                 "marks": 15,
-                "topic": "Coordination Chemistry",
+                "topic": "Nanotechnology",
                 "subject": "Chemistry",
                 "createdAt": "2023-11-19T07:59:14.000Z",
                 "updatedAt": "2023-11-19T07:59:14.000Z"
             },
             {
-                "id": 159,
-                "question": "Explain the concept of NMR (Nuclear Magnetic Resonance) spectroscopy.",
+                "id": 160,
+                "question": "Define the term 'Hess's Law' and its applications in thermochemistry.",
                 "level": "Hard",
                 "marks": 15,
-                "topic": "Spectroscopy",
+                "topic": "Thermochemistry",
                 "subject": "Chemistry",
                 "createdAt": "2023-11-19T07:59:14.000Z",
                 "updatedAt": "2023-11-19T07:59:14.000Z"
@@ -508,34 +506,25 @@ response:-
         ]
     ],
     "chemistryTopicWiseQuestions": {
-        "Organic Chemistry": 2,
-        "Acids and Bases": 1,
-        "Environmental Chemistry": 1,
-        "Solutions": 1,
-        "Chemical Formulas": 2,
-        "Atomic Structure": 2,
-        "Redox Reactions": 1,
-        "Nuclear Chemistry": 2,
-        "Solution Chemistry": 1,
-        "Chemical Bonding": 1,
-        "Thermodynamics": 1,
-        "Analytical Chemistry": 1,
-        "Coordination Chemistry": 1,
-        "Spectroscopy": 1
+        "Atomic Structure": "5.56%",
+        "Chemical Equilibrium": "5.56%",
+        "Electrochemistry": "5.56%",
+        "Mole Concept": "5.56%",
+        "Environmental Chemistry": "5.56%",
+        "Chemical Bonding": "5.56%",
+        "Chemical Reactions": "5.56%",
+        "Coordination Chemistry": "11.11%",
+        "Thermodynamics": "5.56%",
+        "Thermochemistry": "11.11%",
+        "Organic Chemistry": "11.11%",
+        "Analytical Chemistry": "5.56%",
+        "Nuclear Chemistry": "5.56%",
+        "Chemical Formulas": "5.56%",
+        "Nanotechnology": "5.56%"
     },
     "mathematicsMarks": 180,
     "mathematics": [
         [
-            {
-                "id": 193,
-                "question": "Calculate the area of a circle with radius 5 units.",
-                "level": "Easy",
-                "marks": 5,
-                "topic": "Geometry",
-                "subject": "Mathematics",
-                "createdAt": "2023-11-19T08:04:16.000Z",
-                "updatedAt": "2023-11-19T08:04:16.000Z"
-            },
             {
                 "id": 179,
                 "question": "Calculate the perimeter of a square with side length 10 units.",
@@ -547,8 +536,18 @@ response:-
                 "updatedAt": "2023-11-19T08:04:16.000Z"
             },
             {
-                "id": 184,
-                "question": "Calculate the volume of a cylinder with radius 3 units and height 8 units.",
+                "id": 174,
+                "question": "Find the square root of 25.",
+                "level": "Easy",
+                "marks": 5,
+                "topic": "Basic Math",
+                "subject": "Mathematics",
+                "createdAt": "2023-11-19T08:04:16.000Z",
+                "updatedAt": "2023-11-19T08:04:16.000Z"
+            },
+            {
+                "id": 178,
+                "question": "Find the value of ? (pi) to two decimal places.",
                 "level": "Easy",
                 "marks": 5,
                 "topic": "Geometry",
@@ -557,31 +556,31 @@ response:-
                 "updatedAt": "2023-11-19T08:04:16.000Z"
             },
             {
-                "id": 192,
-                "question": "Determine the domain of the function: f(x) = sqrt(2x - 1).",
+                "id": 185,
+                "question": "Solve the system of equations: 2x + y = 10 and x - y = 3.",
                 "level": "Easy",
                 "marks": 5,
-                "topic": "Functions",
+                "topic": "Systems of Equations",
                 "subject": "Mathematics",
                 "createdAt": "2023-11-19T08:04:16.000Z",
                 "updatedAt": "2023-11-19T08:04:16.000Z"
             },
             {
-                "id": 191,
-                "question": "Find the nth term of the arithmetic sequence: 2, 5, 8, 11, ...",
+                "id": 186,
+                "question": "Evaluate the trigonometric function: sin(30 degrees).",
                 "level": "Easy",
                 "marks": 5,
-                "topic": "Sequences and Series",
+                "topic": "Trigonometry",
                 "subject": "Mathematics",
                 "createdAt": "2023-11-19T08:04:16.000Z",
                 "updatedAt": "2023-11-19T08:04:16.000Z"
             },
             {
-                "id": 187,
-                "question": "Determine the area of a right-angled triangle with base 6 units and height 8 units.",
+                "id": 175,
+                "question": "Solve the equation 2x + 5 = 15 for x.",
                 "level": "Easy",
                 "marks": 5,
-                "topic": "Geometry",
+                "topic": "Linear Equations",
                 "subject": "Mathematics",
                 "createdAt": "2023-11-19T08:04:16.000Z",
                 "updatedAt": "2023-11-19T08:04:16.000Z"
@@ -597,16 +596,6 @@ response:-
                 "updatedAt": "2023-11-19T08:04:16.000Z"
             },
             {
-                "id": 197,
-                "question": "Solve the exponential equation: 2^x = 16.",
-                "level": "Easy",
-                "marks": 5,
-                "topic": "Exponents",
-                "subject": "Mathematics",
-                "createdAt": "2023-11-19T08:04:16.000Z",
-                "updatedAt": "2023-11-19T08:04:16.000Z"
-            },
-            {
                 "id": 182,
                 "question": "Simplify the fraction: 6/8.",
                 "level": "Easy",
@@ -615,25 +604,45 @@ response:-
                 "subject": "Mathematics",
                 "createdAt": "2023-11-19T08:04:16.000Z",
                 "updatedAt": "2023-11-19T08:04:16.000Z"
+            },
+            {
+                "id": 191,
+                "question": "Find the nth term of the arithmetic sequence: 2, 5, 8, 11, ...",
+                "level": "Easy",
+                "marks": 5,
+                "topic": "Sequences and Series",
+                "subject": "Mathematics",
+                "createdAt": "2023-11-19T08:04:16.000Z",
+                "updatedAt": "2023-11-19T08:04:16.000Z"
             }
         ],
         [
             {
-                "id": 206,
-                "question": "Simplify the expression: log?(2) + log?(8).",
+                "id": 217,
+                "question": "Determine the roots of the cubic equation: x^3 - 6x^2 + 11x - 6 = 0.",
                 "level": "Medium",
                 "marks": 10,
-                "topic": "Logarithms",
+                "topic": "Polynomials",
                 "subject": "Mathematics",
                 "createdAt": "2023-11-19T08:07:47.000Z",
                 "updatedAt": "2023-11-19T08:07:47.000Z"
             },
             {
-                "id": 212,
-                "question": "Calculate the arc length of a circle with radius 4 units and central angle ?/3.",
+                "id": 203,
+                "question": "Calculate the derivative of the function f(x) = 3x^2 + 2x - 1.",
                 "level": "Medium",
                 "marks": 10,
-                "topic": "Geometry",
+                "topic": "Calculus",
+                "subject": "Mathematics",
+                "createdAt": "2023-11-19T08:07:47.000Z",
+                "updatedAt": "2023-11-19T08:07:47.000Z"
+            },
+            {
+                "id": 210,
+                "question": "Determine the domain of the function: h(x) = ?(4 - x^2).",
+                "level": "Medium",
+                "marks": 10,
+                "topic": "Functions",
                 "subject": "Mathematics",
                 "createdAt": "2023-11-19T08:07:47.000Z",
                 "updatedAt": "2023-11-19T08:07:47.000Z"
@@ -649,11 +658,11 @@ response:-
                 "updatedAt": "2023-11-19T08:07:47.000Z"
             },
             {
-                "id": 214,
-                "question": "Evaluate the limit: lim (x ? 2) (x^2 - 4) / (x - 2).",
+                "id": 202,
+                "question": "Solve the system of linear equations: 2x + y = 5 and 3x - 2y = 1.",
                 "level": "Medium",
                 "marks": 10,
-                "topic": "Calculus",
+                "topic": "Systems of Equations",
                 "subject": "Mathematics",
                 "createdAt": "2023-11-19T08:07:47.000Z",
                 "updatedAt": "2023-11-19T08:07:47.000Z"
@@ -679,18 +688,8 @@ response:-
                 "updatedAt": "2023-11-19T08:07:47.000Z"
             },
             {
-                "id": 217,
-                "question": "Determine the roots of the cubic equation: x^3 - 6x^2 + 11x - 6 = 0.",
-                "level": "Medium",
-                "marks": 10,
-                "topic": "Polynomials",
-                "subject": "Mathematics",
-                "createdAt": "2023-11-19T08:07:47.000Z",
-                "updatedAt": "2023-11-19T08:07:47.000Z"
-            },
-            {
-                "id": 203,
-                "question": "Calculate the derivative of the function f(x) = 3x^2 + 2x - 1.",
+                "id": 214,
+                "question": "Evaluate the limit: lim (x ? 2) (x^2 - 4) / (x - 2).",
                 "level": "Medium",
                 "marks": 10,
                 "topic": "Calculus",
@@ -699,11 +698,11 @@ response:-
                 "updatedAt": "2023-11-19T08:07:47.000Z"
             },
             {
-                "id": 211,
-                "question": "Find the sum of the geometric series: 2 + 6 + 18 + ... up to the 5th term.",
+                "id": 216,
+                "question": "Calculate the area of the region bounded by the curves y = x^2 and y = 2x.",
                 "level": "Medium",
                 "marks": 10,
-                "topic": "Sequences and Series",
+                "topic": "Calculus",
                 "subject": "Mathematics",
                 "createdAt": "2023-11-19T08:07:47.000Z",
                 "updatedAt": "2023-11-19T08:07:47.000Z"
@@ -711,31 +710,31 @@ response:-
         ],
         [
             {
-                "id": 226,
-                "question": "Find the eigenfunctions and eigenvalues of the Sturm-Liouville operator.",
+                "id": 228,
+                "question": "Derive the formula for the sum of an infinite geometric series.",
                 "level": "Hard",
                 "marks": 15,
-                "topic": "Differential Equations",
+                "topic": "Sequences and Series",
                 "subject": "Mathematics",
                 "createdAt": "2023-11-19T08:09:44.000Z",
                 "updatedAt": "2023-11-19T08:09:44.000Z"
             },
             {
-                "id": 235,
-                "question": "Prove the Riemann-Roch theorem in complex analysis.",
+                "id": 220,
+                "question": "Prove the Fundamental Theorem of Calculus.",
                 "level": "Hard",
                 "marks": 15,
-                "topic": "Complex Analysis",
+                "topic": "Calculus",
                 "subject": "Mathematics",
                 "createdAt": "2023-11-19T08:09:44.000Z",
                 "updatedAt": "2023-11-19T08:09:44.000Z"
             },
             {
-                "id": 242,
-                "question": "Derive the formula for the Fourier transform of a function.",
+                "id": 238,
+                "question": "Prove the Baire Category Theorem in real analysis.",
                 "level": "Hard",
                 "marks": 15,
-                "topic": "Fourier Analysis",
+                "topic": "Real Analysis",
                 "subject": "Mathematics",
                 "createdAt": "2023-11-19T08:09:44.000Z",
                 "updatedAt": "2023-11-19T08:09:44.000Z"
@@ -743,18 +742,17 @@ response:-
         ]
     ],
     "mathematicsTopicWiseQuestions": {
-        "Geometry": 5,
-        "Functions": 2,
-        "Sequences and Series": 2,
-        "Trigonometry": 2,
-        "Exponents": 1,
-        "Fractions": 1,
-        "Logarithms": 1,
-        "Quadratic Equations": 1,
-        "Calculus": 2,
-        "Polynomials": 1,
-        "Differential Equations": 1,
-        "Complex Analysis": 1,
-        "Fourier Analysis": 1
+        "Geometry": "9.52%",
+        "Basic Math": "4.76%",
+        "Systems of Equations": "9.52%",
+        "Trigonometry": "14.29%",
+        "Linear Equations": "4.76%",
+        "Fractions": "4.76%",
+        "Sequences and Series": "9.52%",
+        "Polynomials": "4.76%",
+        "Calculus": "19.05%",
+        "Functions": "9.52%",
+        "Quadratic Equations": "4.76%",
+        "Real Analysis": "4.76%"
     }
 }
