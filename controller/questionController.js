@@ -147,13 +147,19 @@ async function findQuestion(subject, number) {
 // topic find function 
 function topTopics(question) {
     var myMap = {};
+    var number=0;
     for (let i = 0; i < question.length; i++) {
+        number=number+question[i].length;
         for (let j = 0; j < question[i].length; j++) {
             myMap[question[i][j].topic] = (myMap[question[i][j].topic] || 0) + 1;
         }
     }
-
+    for(var topic in myMap)
+    {
+      myMap[topic]=((myMap[topic]/number)*100).toFixed(2) +"%";
+    }
     return myMap;
+
 }
 
 module.exports.createQuestionPaper = async (req, res) => {
